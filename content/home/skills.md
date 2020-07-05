@@ -21,7 +21,7 @@ subtitle = ""
   description = "30%"
   
 [[feature]]
-  icon = "bootstrap"
+  icon = "js-square"
   icon_pack = "fas"
   name = "Bootstrap"
   description = "30%"  
